@@ -6,6 +6,7 @@ O guia aborda temas como:
 
 # investimento-tesouro-direto
 https://notebooklm.google.com/notebook/36184547-e29f-41f3-a9af-c94fd4c7b8c1
+
 Fontes utilizadas:
 - https://www.tesourodireto.com.br/
 https://www.caixa.gov.br/voce/poupanca-e-investimentos/tesouro-direto/Paginas/default.aspx
